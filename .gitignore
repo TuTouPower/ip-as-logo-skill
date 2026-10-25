@@ -5,5 +5,12 @@ generated_images/
 *.png
 !assets/
 !assets/ip-as-logo-wall.webp
+assets/generated_candidates/
+assets/bw_candidates/
+assets/menubar_icons/
 .vercel
 /website/
+preview.html
+bw_preview.html
+menubar_preview.html
+chrome_svg_preview.html
